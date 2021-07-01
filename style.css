@@ -1,0 +1,26 @@
+p{color:dimgray;}
+
+h1{float: left;}
+
+header ul li {display:inline-block;}
+
+#list {float: right;}
+
+header{height:150px ;}
+
+.colormaroon{color:rgba(199, 21, 134, 0.788);}
+
+h3{color:rgba(164, 94, 167, 0.678);}
+
+
+a{text-decoration: none}
+
+footer{float:right;}
+
+section{background-color:rgba(244, 220, 245, 0.671);}
+
+header{background-color:rgb(247, 243, 247) }
+
+footer{background-color:rgb(247, 243, 247) }
+
+h1{color:rgb(160, 30, 112);}

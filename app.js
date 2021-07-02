@@ -26,6 +26,10 @@ while (times>10){times=prompt("Please Enter Less Than 10 Value")}
 
 for (var i = 0; i<times ; i++){document.write("<div>"+"<h3>"+ favoritearchitecturalstyle +"</h3>"+"<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIC9tpblkyDmypDI8cUlGaslqvvP-XnjET4OYInqA45-VcufePydqup856AHHBOs1BKBs&usqp=CAU' alt='Classical Architecture'>" +"</div>" )
 } 
+while (favoritearchitecturalstyle != "Classical Architecture" && favoritearchitecturalstyle != "Modern Architecture" && favoritearchitecturalstyle != "Contemperary Architecture"){favoritearchitecturalstyle=prompt("Please Enter Your Favorite Type From Displayed Options (Classical Architecture, Modern Architecture,Contemperary Architecture)")}
+
+
+
 
 if (favoritearchitecturalstyle == "Modern Architecture"){var times= prompt ("How Many More Times Would You Like to see it ?")}
 
@@ -43,3 +47,5 @@ while (times>10){times=prompt("Please Enter Less Than 10 Value")}
 
 for (var i = 0; i<times ; i++){document.write("<div>"+"<h3>"+ favoritearchitecturalstyle +"</h3>"+"<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpkaAboXe9kesOGomEZVbtqS1sP3uKenOi4-S6MmfJEw4pUbSVQ0rttWYBIstdt3HoGVs&usqp=CAU' alt='Contemperary Architecture'>" +"</div>" )
 } 
+
+while (favoritearchitecturalstyle != "Classical Architecture" && favoritearchitecturalstyle != "Modern Architecture" && favoritearchitecturalstyle != "Contemperary Architecture"){favoritearchitecturalstyle=prompt("Please Enter Your Favorite Type From Displayed Options")}

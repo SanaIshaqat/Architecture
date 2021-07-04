@@ -23,10 +23,27 @@ header{background-color:rgb(247, 243, 247) }
 
 footer{background-color:rgb(247, 243, 247) }
 
-<<<<<<< HEAD
 h1{color:rgb(160, 30, 112);}
 
 
-=======
-h1{color:rgb(160, 30, 112);}
->>>>>>> 0cf6d7402ed7ba14fcc17043acff804493fb585e
+
+body{
+  margin: 100px;
+}
+
+p{
+  padding:20px;
+}
+
+div{
+  padding: 30px;
+  border-style: solid;
+  margin: 30px
+}
+  
+  h2{
+    margin: 30px;
+  }
+
+header{margin: 60px;
+ }

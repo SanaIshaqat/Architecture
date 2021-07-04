@@ -49,6 +49,7 @@ for (var i = 0; i<times ; i++){document.write("<div>"+"<h3>"+ favoritearchitectu
 } 
 
 while (favoritearchitecturalstyle != "Classical Architecture" && favoritearchitecturalstyle != "Modern Architecture" && favoritearchitecturalstyle != "Contemperary Architecture"){favoritearchitecturalstyle=prompt("Please Enter Your Favorite Type From Displayed Options")}
+<<<<<<< HEAD
 }
 
 archfunc();
@@ -76,3 +77,5 @@ document.write(ratefunc(rate))
 
 
 
+=======
+>>>>>>> dcc7ee827b1d0efc8605b1f3bffaddb47331dce0
